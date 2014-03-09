@@ -12,7 +12,7 @@ TARGET_SCREEN_WIDTH := 720
 $(call inherit-product, vendor/slim/config/common_full_phone.mk)
 
 # Inherit device configuration
-$(call inherit-product, device/samsung/t0ltetmo/full_i605.mk)
+$(call inherit-product, device/samsung/i605/full_i605.mk)
 
 # Inherit torch settings
 $(call inherit-product, vendor/slim/config/common_ledflash.mk)
