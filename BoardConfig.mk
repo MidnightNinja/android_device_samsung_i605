@@ -24,4 +24,4 @@
 
 # inherit from the proprietary version
 -include vendor/samsung/t0lte/BoardConfigVendor.mk
--include vendor/samsung/t0ltetmo/BoardConfigVendor.mk
+-include vendor/samsung/t0ltecdma/BoardConfigVendor.mk

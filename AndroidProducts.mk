@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_t0ltetmo.mk
+    $(LOCAL_DIR)/full_i605.mk
