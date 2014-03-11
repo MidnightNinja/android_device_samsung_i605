@@ -4,6 +4,9 @@ $(call inherit-product, vendor/slim/config/cdma.mk)
 # Release name
 PRODUCT_RELEASE_NAME := i605
 
+# Use -O3 flags
+TARGET_USE_O3 := true
+
 # Boot animation
 TARGET_SCREEN_HEIGHT := 1280
 TARGET_SCREEN_WIDTH := 720
